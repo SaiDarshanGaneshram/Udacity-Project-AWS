@@ -51,12 +51,27 @@ The files included are:
 
 - The S3 bucket is visible in the AWS Management console.
 
+  <img width="1380" height="916" alt="1" src="https://github.com/user-attachments/assets/e3762d5f-a378-49cd-b5b2-215960f9384b" />
+
 - All website files should be added to the S3 bucket.
+
+  <img width="1898" height="954" alt="Screenshot from 2025-11-12 14-08-51" src="https://github.com/user-attachments/assets/b8e74b4d-f2e0-4cb6-bce4-14ef429360d9" />
 
 - The S3 bucket is configured to support static website hosting.
 
+  <img width="1531" height="360" alt="Screenshot from 2025-11-12 14-54-06" src="https://github.com/user-attachments/assets/755170bd-b4f3-4765-814e-629647df85cb" />
+
+
 - The permission access to the bucket should be configured to allow public access.
+- 
+  <img width="1326" height="662" alt="image" src="https://github.com/user-attachments/assets/a9117824-b5fa-4212-929a-d2ea19335b9d" />
 
 - CloudFront has been configured to retrieve and distribute website files.
+  
+<img width="738" height="222" alt="Screenshot from 2025-11-12 14-43-15" src="https://github.com/user-attachments/assets/975b848a-b270-4db5-9067-8ed08aa43aac" />
 
 - Website publicly accessible
+  
+<img width="1909" height="953" alt="final" src="https://github.com/user-attachments/assets/e4b786e4-93bd-4e1a-a3e0-e92979f63676" />
+
+  
