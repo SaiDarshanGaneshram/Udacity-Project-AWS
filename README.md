@@ -45,7 +45,7 @@ The files included are:
 
 ## Website URL
 
-'''http://amzn-udacity-static-s3bucket.s3-website-us-east-1.amazonaws.com/'''
+```http://amzn-udacity-static-s3bucket.s3-website-us-east-1.amazonaws.com/```
 
 ## Captures
 
