@@ -67,8 +67,9 @@ The files included are:
   <img width="1326" height="662" alt="image" src="https://github.com/user-attachments/assets/a9117824-b5fa-4212-929a-d2ea19335b9d" />
 
 - CloudFront has been configured to retrieve and distribute website files.
-  
-<img width="738" height="222" alt="Screenshot from 2025-11-12 14-43-15" src="https://github.com/user-attachments/assets/975b848a-b270-4db5-9067-8ed08aa43aac" />
+  <img width="1360" height="456" alt="Screenshot from 2025-11-12 15-10-57" src="https://github.com/user-attachments/assets/b91cfbe4-aed1-4ab3-8fbd-e514633095d3" />
+
+
 
 - Website publicly accessible
   
