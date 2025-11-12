@@ -68,6 +68,9 @@ http://amzn-udacity-static-s3bucket.s3-website-us-east-1.amazonaws.com/
 
 - CloudFront has been configured to retrieve and distribute website files.
 
+  <img width="1904" height="932" alt="image" src="https://github.com/user-attachments/assets/6aa30fce-f5af-427e-b432-f2e860ca831a" />
+
+
   <img width="1929" height="678" alt="Screenshot from 2025-11-12 15-13-32" src="https://github.com/user-attachments/assets/23c22cde-30eb-4070-b44c-314d9642a5bb" />
 
 
