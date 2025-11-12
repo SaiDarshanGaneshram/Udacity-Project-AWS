@@ -47,6 +47,11 @@ The files included are:
 
 http://amzn-udacity-static-s3bucket.s3-website-us-east-1.amazonaws.com/
 
+##  CloudFront URL
+
+https://de2kbjjfzuaux.cloudfront.net/
+<img width="1918" height="1034" alt="image" src="https://github.com/user-attachments/assets/c5323113-88b1-424e-bd67-e5555283130a" />
+
 ## Captures
 
 - The S3 bucket is visible in the AWS Management console.
