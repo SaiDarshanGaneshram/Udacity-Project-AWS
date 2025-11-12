@@ -13,7 +13,7 @@ The files included are:
 ## Instructions
 
 1. Create S3 bucket
-  - bucket name: `udacity-website-amagnani`
+  - bucket name: `amzn-udacity-static-s3bucket`
   - uncheck: block all public access
 
 2. Upload files and folders: index.html, img, vendor, css
